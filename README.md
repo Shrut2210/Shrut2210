@@ -54,11 +54,5 @@ An e-commerce platform for plant distributors, allowing users to browse and purc
 
 ---
 
-## 📊 GitHub Stats
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrut2210&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrut2210&layout=compact&theme=radical)
-
----
 
 ⚡ **Always eager to collaborate on exciting projects and contribute to open source! Feel free to connect with me.** 🚀
